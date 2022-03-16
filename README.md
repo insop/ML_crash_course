@@ -12,7 +12,7 @@ Colab is a recommended way to run the notebooks for easy testing; however, noteb
 ## Contents
 
 1. [ML overview](https://github.com/insop/ML_crash_course/blob/main/1_ml_overview.ipynb)
-2. (WIP) Linear Regression (predicting numbers)
+2. [Linear Regression (predicting numbers)](https://github.com/insop/ML_crash_course/blob/main/2_linear_regression.ipynb)
 3. (TBD) Logistic Regression (classifying items)
 4. (TBD) Neural Network (deep learning)
 5. (TBD) Convolutional Neural Network (CNN)
