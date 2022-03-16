@@ -13,3 +13,4 @@ def save_fig(fig_id, tight_layout=True, imabes_path='figures', fig_extension="pn
     if tight_layout:
         plt.tight_layout()
     plt.savefig(path, format=fig_extension, dpi=resolution)
+    
