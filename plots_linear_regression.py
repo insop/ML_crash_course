@@ -15,11 +15,15 @@ import os
 # enable this when running locally
 from utils import save_fig
 
+from matplotlib.pyplot import figure
+
+#figure(figsize=(4.5, 3.5), dpi=80)
+plt.figure(figsize=(5,4))
 # linear regression sample data set and plot
 
 # First plot
 training_data = {
-    'x':[1,2,4], 
+    'x':[1,2,4],
     'y':[1,3,3]}
 
 plt.axis([0, 5, 0, 4])
@@ -68,7 +72,7 @@ plt.plot(X, w[0]*X+w[1], "g")
 for i in range(len(training_data)+1):
     plt.plot([training_data['x'][i], training_data['x'][i]],
              [training_data['y'][i], w[0]*training_data['x'][i]+w[1]], 'r-')
-    
+
 plt.text(1.1, 1.5, "residual", fontsize=14, color="r")
 save_fig("linear_regression_example_4")
 
