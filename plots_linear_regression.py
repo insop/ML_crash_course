@@ -76,3 +76,29 @@ for i in range(len(training_data)+1):
 plt.text(1.1, 1.5, "residual", fontsize=14, color="r")
 save_fig("linear_regression_example_4")
 
+
+# plot for non linear dataset
+plt.clf()
+
+x = np.arange(0,5,0.2)
+x_data = x
+x.shape
+noise = np.random.normal(loc=0.0, scale=0.4, size=x.shape[0])
+
+
+y = -.25*(x-2.5)*(x-2.5) + 3
+y+= noise
+
+training_data = {
+    'x':x, 
+    'y':y}
+
+plt.clf()
+plt.axis([0, 5, 0, 4])
+plt.plot(training_data['x'], training_data['y'] ,'bo')
+plt.xlabel("x")
+plt.ylabel("y")
+plt.grid()
+
+save_fig("linear_regression_example_5")
+
