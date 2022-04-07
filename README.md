@@ -17,7 +17,7 @@ Colab is a recommended way to run the notebooks for easy testing; however, noteb
 1. [ML overview](https://github.com/insop/ML_crash_course/blob/main/1_ml_overview.ipynb)
 2. [Linear Regression (predicting numbers)](https://github.com/insop/ML_crash_course/blob/main/2_linear_regression.ipynb)
 3. [Classification](https://github.com/insop/ML_crash_course/blob/main/3_classification.ipynb)
-4. (TBD) Neural Network (deep learning)
+4. [Neural Network](http://localhost:8888/files/Projects/Github/ML_talk/ML_crash_course/neural_network.pdf), [simple neural network code](http://localhost:8888/notebooks/Projects/Github/ML_talk/ML_crash_course/4_neural_network.ipynb)
 5. (TBD) Convolutional Neural Network (CNN)
 6. (TBD) Deep Learning Computation
 7. (TBD) ML pipeline
