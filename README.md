@@ -19,8 +19,8 @@ Colab is a recommended way to run the notebooks for easy testing; however, noteb
 3. [Classification](https://github.com/insop/ML_crash_course/blob/main/3_classification.ipynb)
 4. [Neural Network](https://github.com/insop/ML_crash_course/blob/main/neural_network.pdf), [simple neural network code](https://github.com/insop/ML_crash_course/blob/main/4_neural_network.ipynb)
 5. (TBD) Convolutional Neural Network (CNN)
-6. (TBD) Recurrent neural network (RNN) and natural language processing (NLP)
-7. (TBD) Attention and transformer
+6. (TBD) Attention and transformer and natural language processing (NLP)
+7. (TBD) Recurrent neural network (RNN)
 8. [ML development process](https://github.com/insop/ML_crash_course/blob/main/ml_dev_process.pdf)
 9. (TBD) Deep Learning Computation
 
