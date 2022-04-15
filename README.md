@@ -19,22 +19,19 @@ Colab is a recommended way to run the notebooks for easy testing; however, noteb
 3. [Classification](https://github.com/insop/ML_crash_course/blob/main/3_classification.ipynb)
 4. [Neural Network](https://github.com/insop/ML_crash_course/blob/main/neural_network.pdf), [simple neural network code](https://github.com/insop/ML_crash_course/blob/main/4_neural_network.ipynb)
 5. [Convolutional Neural Network(CNN)](https://github.com/insop/ML_crash_course/blob/main/cnn.pdf), [sample CNN code](https://github.com/insop/ML_crash_course/blob/main/cifar10_tutorial.ipynb)
-6. (TBD) Attention and transformer and natural language processing (NLP)
-7. (TBD) Recurrent neural network (RNN)
-8. [ML development process](https://github.com/insop/ML_crash_course/blob/main/ml_dev_process.pdf)
-9. (TBD) Deep Learning Computation
-
-
-
+6. (TBD) Natural Language Processing (NLP)
+    - (TBD) Recurrent neural network (RNN)
+    - (TBD) Attention, Transformer, Bert, and GPT
+7. [ML development process](https://github.com/insop/ML_crash_course/blob/main/ml_dev_process.pdf)
+8. (TBD) MLOps and Deep Learning Computation
 
 
 ## Credits
 
+*Note*: Credits for slides are described in each slide.
 1. [Numpy tutorial](https://github.com/cgpotts/cs224u/blob/23b120f5f57ee45bc9414d38dc426f76a86f0578/tutorial_numpy.ipynb).
 2. Chapter 1 from Book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 3. [ML overview](https://stanford-cs221.github.io/autumn2021-extra/modules/machine-learning/overview.pdf)
 4. [ML linear regression](https://stanford-cs221.github.io/autumn2021-extra/modules/machine-learning/linear-regression.pdf)
-
-
 
 ## Further readings
